@@ -1,4 +1,4 @@
-﻿dax_name,dax_measure
+﻿dax_medicion,dax_formula
 % Monto por inversiones,"DIVIDE(
    SUM(inversiones[monto]),
    CALCULATE(SUM(inversiones[monto]), REMOVEFILTERS(inversiones[tipo_acceso]))

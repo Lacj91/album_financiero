@@ -1,4 +1,4 @@
-﻿name_visual,dax_name
+﻿nombre_visual,dax_medicion
 Balance Financiero Mensual e Inversiones,dim_tipo_inversion
 Balance Financiero Mensual e Inversiones,primer_dia_mes
 Balance Financiero Mensual e Inversiones,Resultado Financiero a la Fecha
@@ -13,19 +13,18 @@ Detalle de Transacciones,Seleccion Fecha Corte
 Detalle de Transacciones,Seleccion Fecha Inicio
 Detalles Viajes,Total Gastado Clave
 Diferencia Periodo Seleccionado,Diferencia Periodo Seleccionado
-Disponible,No measure
+Disponible,sin formula
 Duracion Viaje,Duracion del Viaje
 Estatus Linea de Credito,Credito Disponible
 Estatus Linea de Credito,Limite Credito
 Estatus Linea de Credito,Saldo Credito
 Estatus Pago del Credito,simbolo_listo_para_pago
-Fecha de Corte,No measure
+Fecha de Corte,sin formula
 Fecha de Inicio,fecha_inicio
-Fecha Limite de Pago,No measure
+Fecha Limite de Pago,sin formula
 Filtro por Fecha,Calendario
 Filtro por Ubicacion,Filtro Ubicacion de Viaje
 Filtro por Ubicacion,id_viaje_descripcion
-Gasto Asociados a Viajes,Gasto Real Viajes
 Gasto Asociados a Viajes,Gasto Viajes (Treemap)
 Gasto Asociados a Viajes,ubicacion_viaje_ajustado
 Gasto en Credito por Periodo de Facturacion,Monto Asociado
@@ -36,16 +35,17 @@ Horizonte de Sustenabilidad y Fecha Limite,Saldo Credito
 Horizonte de Sustenabilidad y Fecha Limite,Total Disponible Inversiones
 Horizonte de Sustenabilidad y Fecha Limite,Total Presupuesto Especifico
 Horizonte de Sustenabilidad y Fecha Limite,Total Presupuesto Regular
-Ingresos,No measure
+Ingresos,sin formula
 Lugar Visitado,ubicacion_completa
-Mapa Gastos de Viaje,No measure
+Mapa Gastos de Viaje,sin formula
 Monto Disponible vs. Limite Personal,Disponible antes del Limite
 Monto por Inversion,Diferencia Mensual
 Monto por Inversion,Monto Reciente por Acceso
+Monto Utilizado,Gasto Real Viajes
 Montos Totales,Monto Gastado Dinamico
 Montos Totales,Monto Presupuestado
-No Disponible,No measure
-Numero de Viajes,No measure
+No Disponible,sin formula
+Numero de Viajes,sin formula
 Porcentaje Utilizado del Presupuesto,% Presupuesto
 Razon de Uso,Filtro Razon de Uso
 Restante para Gastar,Restante para Gastar
@@ -55,14 +55,17 @@ Resumen Estado de Pago del Credito,Resumen Estado Pago General
 Resumen Estado de Pago del Credito,Resumen Estado Pago Proximo Mes
 Resumen Estado de Pago del Credito,Resumen Pago Combinado
 Saldo Acumulado,Saldo Actual Inversiones
-Tendencia Acumulada de Inversiones,No measure
+Tendencia Acumulada de Inversiones,sin formula
 Tendencia Acumulada por Acceso,% Monto por inversiones
 Tendencia Acumulada por Inversion,Monto Inversiones Mensual
-Tipo de Inversion,No measure
+Tipo de Inversion,sin formula
 Total Invertido,Total Inversiones
+Total Presupuestado,Monto Gastado Dinamico
+Total Presupuestado,Monto Presupuestado
 Variacion Mensual de Inversiones,Diferencia Mensual
 Variacion Mensual de Inversiones,Monto Mensual
 Variacion Mensual de Inversiones,Monto Mes Anterior
 Viajes Agrupados,grupo_conteo
 Viajes Agrupados,grupo_viaje_descripcion
 Viajes Agrupados,id_viaje_descripcion
+Filtro por Periodo,sin formula
